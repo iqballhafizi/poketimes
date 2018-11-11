@@ -1,0 +1,13 @@
+.container .post{
+		overflow: hidden;
+		padding-left:100px;
+}
+.container .post img{
+
+	position: absolute;	
+	left: -110px;
+	height: 150px;
+	transform: rotate(-20deg);
+	opacity: 0.5;
+
+}
